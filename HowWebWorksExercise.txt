@@ -1,0 +1,52 @@
+Part One 
+
+1. What is HTTP
+- It is the protocol that is used when a computer request information from another computer
+
+2. What is a URL
+- the URL is the a address and points you to a specific resourse on the web. 
+
+3. What is DNS
+- Domain name system is like the phone book of the internet
+
+4. What is a query string?
+- its the part of a URL that searches inside the give data for the searches terms
+
+5. What are HTTP verbs and how are they different?
+- They are methods like GET and POST that either get data or change data from information received from a web page
+
+6. What is an HTTP request?
+-It is the porcess of get getting informatin from other data bases to you computer using mehtods like GET
+
+7. What is an HTTP response?
+-It lists a bunch of meta information that we request when you search a URL. 
+
+8. What is an HTTP header? Give a couple examples of request and response headers you have seen.
+- It has more specific information about the data you are requesting like what language you want the page to be in.
+
+9. What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+- The broswer turn the name into an IP address with DNS
+- The browser then makaes a request to the IP address 
+- The broswer using the HTML revieve to make the DOM
+
+
+part 2 
+
+
+1. 
+
+2. Use dig to find what the IP address is for icanhazdadjoke.com
+- 172.67.211.64
+
+3. done 
+
+
+
+part 3 
+
+
+
+
+
+part 4 
+
